@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Full Stack Developer
-🌱 I’m currently learning Web Development
+### I am Full Stack Developer (learning)
 📫 How to reach me:
 🦜 https://twitter.com/pankaj__b
 
