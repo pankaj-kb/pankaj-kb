@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pankaj-kb/pankaj-kb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am Full Stack Developer (learning)
-📫 How to reach me:
-🦜 https://twitter.com/pankaj__b
+### Hi there 👋 I am Pankajkb
+- 🌱 I’m currently learning Full Stack Dev
+- 👀 I’m interested in blockchain dev to.
+- ⚡ Fun fact: CSE Degree is not enough I still have to learn much more
+- 📫 reach me @ https://twitter.com/pankaj__b
 
