@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋 I am Pankajkb
-- 🌱 I’m currently learning Full Stack Dev
-- 👀 I’m interested in blockchain dev to.
+- 🌱 I’m currently learning Full Stack Dev.
+- 👀 also exploring Blockchain Dev.
 - ⚡ Fun fact: CSE Degree is not enough I still have to learn much more
 - 📫 reach me @ https://twitter.com/pankaj__b
 
