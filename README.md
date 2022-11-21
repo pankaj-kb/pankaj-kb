@@ -4,4 +4,5 @@
 - 👀 also exploring Blockchain Dev.
 - ⚡ Fun fact: CSE Degree is not enough I still have to learn much more
 - 📫 reach me @ https://twitter.com/pankaj__b
+- 📫 reach me @ https://www.linkedin.com/in/pankajkb/
 
