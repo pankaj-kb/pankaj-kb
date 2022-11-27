@@ -1,4 +1,4 @@
-### Hi there 👋 I am Pankajkb
+### Hi there 👋 I am Pankaj Bhadane.
 - 🌱 I’m currently learning Full Stack Dev.
 - ⚙️ Node.js | React | Mongo
 - 👀 also exploring Blockchain Dev.
