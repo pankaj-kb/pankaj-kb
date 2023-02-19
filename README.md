@@ -5,9 +5,6 @@
 - 📝 Read my blog ->  [hashnode blog](https://pankajkb.hashnode.dev/)
 - 📫 reach me @  [twitter/pankaj__b](https://twitter.com/pankaj__b)
 - 📫 reach me @  [linkedin.com/pankajkb](https://www.linkedin.com/in/pankajkb/)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankaj-kb)](https://github.com/pankaj-kb/github-readme-stats)
-
 <br>
 
 ##  Thanks for the viewing my profile
