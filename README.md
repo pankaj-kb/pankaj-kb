@@ -8,5 +8,3 @@
 <br>
 
 ##  Thanks for the viewing my profile
-
-![Visitor Count](https://profile-counter.glitch.me/{pankaj-kb}/count.svg)
