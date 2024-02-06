@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Pankaj Bhadane.
-- 🌱 learning Full Stack Dev.
+- 🌱 Full Stack Dev.
 - ⚙️ Node.js | Express | React | MongoDB | Bootstrap & Tailwind.
 - ⚡ Fun fact: CSE Degree is not enough I still have to learn much more.
 - 📝 Read my blog ->  [hashnode blog](https://pankajkb.hashnode.dev/)
